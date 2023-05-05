@@ -20,7 +20,7 @@ _`Début du projet le 01/04/2023`_
 
 Le projet 30 consiste à construire une page web avec la possibilité de créer des notes en utilisant html/css/js.
 
-* [Voir la page en ligne](#)
+* [Voir la page en ligne](https://thierry-laval.github.io/P30-creer-une-note/)
 
 ***
 
